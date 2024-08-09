@@ -17,6 +17,7 @@
 
 This Data Analysis Project aims to provide insight into the Sales Performance of Pizza over the past year. By analysis various aspects of the sales data , we seek to identify trends, make datadriven recommendation, and gain a deeper understanding of the Pizza Company performance. 
 
+
 ## Data Sources
 
 Pizza Sales Data: The primary dataset used for this analysis is the 'Pizza_Sales1.csv', containing detailed information about each Pizza Sales.
