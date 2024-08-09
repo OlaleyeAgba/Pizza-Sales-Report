@@ -14,6 +14,7 @@
 - [References](#references)
 
 ### Project Overview
+---
 
 This Data Analysis Project aims to provide insight into the Sales Performance of Pizza over the past year. By analysis various aspects of the sales data , we seek to identify trends, make datadriven recommendation, and gain a deeper understanding of the Pizza Company performance. 
 ![Dashboard1](https://github.com/user-attachments/assets/5aa290a9-5b7e-40d7-8256-dff929d3342e)
@@ -101,3 +102,5 @@ I have to remove all zero values from Revenue column because they would have aff
 
 ### References
 1. Youtube - [Data Tutorials](https://youtu.be/V-s8c6jMRN0?si=GhC_5pPP_JGiuQSQ)
+
+
