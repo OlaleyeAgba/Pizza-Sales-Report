@@ -58,7 +58,7 @@ EDA involved exploring the sales data to answer key question, such as;
 
    ![order(Fri and Sah)](https://github.com/user-attachments/assets/daa5f536-35a9-4b97-9baf-7bc13bb91a78)
 
-2. There are maximum orders from month of July and January.
+2. There are maximum orders from month of July and May.
 
    ![Capture](https://github.com/user-attachments/assets/a523036f-870b-45dd-9138-150905562f8c)
 
