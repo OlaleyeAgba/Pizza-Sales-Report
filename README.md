@@ -1,5 +1,8 @@
 # Pizza Sales Analysis
 
+![1724206263798](https://github.com/user-attachments/assets/e2677e4c-1e0d-429d-b0e4-0a9d7b996038)
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
